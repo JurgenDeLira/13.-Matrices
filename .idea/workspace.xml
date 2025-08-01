@@ -38,6 +38,7 @@
     "Application.EjemploMatricesSimetrica.executor": "Run",
     "Application.EjemploMatricesString.executor": "Debug",
     "Application.EjemploMatricesString2.executor": "Run",
+    "Application.EjemploMatricesTransponerMatriz.executor": "Run",
     "Application.EjemploMatricesTranspuesta.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -51,16 +52,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjemploMatricesTranspuesta">
+  <component name="RunManager" selected="Application.EjemploMatricesTransponerMatriz">
     <configuration name="EjemploMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploMatrices" />
-      <module name="13.-Matrices" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjemploMatricesBuscar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploMatricesBuscar" />
       <module name="13.-Matrices" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,6 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EjemploMatricesTransponerMatriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesTransponerMatriz" />
+      <module name="13.-Matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EjemploMatricesTranspuesta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploMatricesTranspuesta" />
       <module name="13.-Matrices" />
@@ -89,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploMatricesTransponerMatriz" />
         <item itemvalue="Application.EjemploMatricesTranspuesta" />
         <item itemvalue="Application.EjemploMatricesSimetrica" />
         <item itemvalue="Application.EjemploMatricesString" />
         <item itemvalue="Application.EjemploMatrices" />
-        <item itemvalue="Application.EjemploMatricesBuscar" />
       </list>
     </recent_temporary>
   </component>
