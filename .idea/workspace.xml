@@ -38,6 +38,7 @@
     "Application.EjemploMatricesSimetrica.executor": "Run",
     "Application.EjemploMatricesString.executor": "Debug",
     "Application.EjemploMatricesString2.executor": "Run",
+    "Application.EjemploMatricesTranspuesta.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -50,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjemploMatricesSimetrica">
+  <component name="RunManager" selected="Application.EjemploMatricesTranspuesta">
     <configuration name="EjemploMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploMatrices" />
       <module name="13.-Matrices" />
@@ -60,13 +61,6 @@
     </configuration>
     <configuration name="EjemploMatricesBuscar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploMatricesBuscar" />
-      <module name="13.-Matrices" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjemploMatricesColumnasVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploMatricesColumnasVariable" />
       <module name="13.-Matrices" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,13 +80,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EjemploMatricesTranspuesta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesTranspuesta" />
+      <module name="13.-Matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploMatricesTranspuesta" />
         <item itemvalue="Application.EjemploMatricesSimetrica" />
         <item itemvalue="Application.EjemploMatricesString" />
         <item itemvalue="Application.EjemploMatrices" />
         <item itemvalue="Application.EjemploMatricesBuscar" />
-        <item itemvalue="Application.EjemploMatricesColumnasVariable" />
       </list>
     </recent_temporary>
   </component>
