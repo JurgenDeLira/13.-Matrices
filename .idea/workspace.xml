@@ -32,9 +32,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EjemploMatrices.executor": "Debug",
     "Application.EjemploMatricesBuscar.executor": "Run",
     "Application.EjemploMatricesColumnasVariable.executor": "Run",
-    "Application.EjemploMatricesString.executor": "Run",
+    "Application.EjemploMatricesSimetrica.executor": "Run",
+    "Application.EjemploMatricesString.executor": "Debug",
     "Application.EjemploMatricesString2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -48,7 +50,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjemploMatricesBuscar">
+  <component name="RunManager" selected="Application.EjemploMatricesSimetrica">
+    <configuration name="EjemploMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatrices" />
+      <module name="13.-Matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EjemploMatricesBuscar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploMatricesBuscar" />
       <module name="13.-Matrices" />
@@ -63,6 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EjemploMatricesSimetrica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesSimetrica" />
+      <module name="13.-Matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EjemploMatricesString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploMatricesString" />
       <module name="13.-Matrices" />
@@ -70,19 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploMatricesString2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploMatricesString2" />
-      <module name="13.-Matrices" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploMatricesSimetrica" />
+        <item itemvalue="Application.EjemploMatricesString" />
+        <item itemvalue="Application.EjemploMatrices" />
         <item itemvalue="Application.EjemploMatricesBuscar" />
         <item itemvalue="Application.EjemploMatricesColumnasVariable" />
-        <item itemvalue="Application.EjemploMatricesString2" />
-        <item itemvalue="Application.EjemploMatricesString" />
       </list>
     </recent_temporary>
   </component>
