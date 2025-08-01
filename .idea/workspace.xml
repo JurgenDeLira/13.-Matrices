@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708ec771-8935-460b-afb3-9e010015c6ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjemploMatricesString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemploMatricesString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjemploMatricesString2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemploMatricesString2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjemploMatricesColumnasVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemploMatricesColumnasVariable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,15 +32,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EjemploMatricesColumnasVariable.executor": "Run",
     "Application.EjemploMatricesString.executor": "Run",
+    "Application.EjemploMatricesString2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Arq. Jorge De Lira/Desktop/need/Cursos/Intellij/Java/13.-Matrices",
-    "settings.editor.selected.configurable": "editor.preferences.appearance"
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EjemploMatricesString2">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EjemploMatricesColumnasVariable">
+    <configuration name="EjemploMatricesColumnasVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesColumnasVariable" />
+      <module name="13.-Matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EjemploMatricesString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploMatricesString" />
       <module name="13.-Matrices" />
@@ -54,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploMatricesColumnasVariable" />
         <item itemvalue="Application.EjemploMatricesString2" />
         <item itemvalue="Application.EjemploMatricesString" />
       </list>
@@ -69,5 +87,16 @@
       <updated>1754026870230</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
