@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708ec771-8935-460b-afb3-9e010015c6ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/EjemploMatricesColumnasVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjemploMatricesColumnasVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="30fmC3yhzJP14x0pzD3AWv47rjg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,6 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EjemploMatricesBuscar.executor": "Run",
     "Application.EjemploMatricesColumnasVariable.executor": "Run",
     "Application.EjemploMatricesString.executor": "Run",
     "Application.EjemploMatricesString2.executor": "Run",
@@ -47,7 +48,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjemploMatricesColumnasVariable">
+  <component name="RunManager" selected="Application.EjemploMatricesBuscar">
+    <configuration name="EjemploMatricesBuscar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesBuscar" />
+      <module name="13.-Matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EjemploMatricesColumnasVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploMatricesColumnasVariable" />
       <module name="13.-Matrices" />
@@ -71,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploMatricesBuscar" />
         <item itemvalue="Application.EjemploMatricesColumnasVariable" />
         <item itemvalue="Application.EjemploMatricesString2" />
         <item itemvalue="Application.EjemploMatricesString" />
