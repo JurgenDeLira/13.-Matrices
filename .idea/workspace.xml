@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="708ec771-8935-460b-afb3-9e010015c6ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="708ec771-8935-460b-afb3-9e010015c6ba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,14 +50,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjemploMatricesTransponerMatriz">
-    <configuration name="EjemploMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploMatrices" />
-      <module name="13.-Matrices" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EjemploMatricesSumar">
     <configuration name="EjemploMatricesSimetrica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploMatricesSimetrica" />
       <module name="13.-Matrices" />
@@ -69,6 +60,13 @@
     </configuration>
     <configuration name="EjemploMatricesString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjemploMatricesString" />
+      <module name="13.-Matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploMatricesSumar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesSumar" />
       <module name="13.-Matrices" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploMatricesSumar" />
         <item itemvalue="Application.EjemploMatricesTransponerMatriz" />
         <item itemvalue="Application.EjemploMatricesTranspuesta" />
         <item itemvalue="Application.EjemploMatricesSimetrica" />
         <item itemvalue="Application.EjemploMatricesString" />
-        <item itemvalue="Application.EjemploMatrices" />
       </list>
     </recent_temporary>
   </component>
